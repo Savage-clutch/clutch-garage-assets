@@ -698,13 +698,15 @@ options to keep you protected!" has an exclamation point; "This vehicle has..." 
 # Part 4: The Garage design system (live pages)
 
 # A stronger brand system
-_Live from the Garage https://garage.clutch.ca/document/1#/how-we-look/a-stronger-brand-system. Last modified: 2026-10-14T15:43:00_
+_Live from the Garage https://garage.clutch.ca/document/1#/how-we-look/a-stronger-brand-system. Last modified: 2026-10-22T20:48:00_
 
 ### A stronger brand system, built for impact and growth
 
 The Clutch visual identity is modern, sleek, and designed with intent. Every choice is guided by our brand DNA and the people we're designing for. Clean lines, bold shapes, and precise details make every brand moment feel confident.
 
 Across our logos, colour, type, photography, and layout, we pair that boldness with human touches so the brand always feels reassuring and approachable.
+
+[Connect with your AI Tools](https://garage-external.vercel.app)
 
 Logos
 
@@ -1875,5 +1877,6 @@ Building a file (deck, PDF, page) in a code sandbox that can't reach the downloa
 - Clutch Moments Downloads: https://garage.clutch.ca/document/7#/-/clutch-moments-downloads
 - 2D Icon Downloads: https://garage.clutch.ca/document/7#/-/2d-icon-downloads
 - Typography Downloads: https://garage.clutch.ca/document/7#/-/typography-downloads-1
+- For AI Agents: https://garage.clutch.ca/document/7#/-/for-ai-agents
 
 With the MCP connector (https://garage-external.vercel.app/mcp) an AI can also look at the photos itself and run the copy checker.
