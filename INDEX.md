@@ -1,6 +1,6 @@
 # Clutch Garage assets: index
 
-Every file below is a mirror of garage.clutch.ca, last synced from the Garage manifest at 2026-10-22 17:50 UTC.
+Every file below is a mirror of garage.clutch.ca, checked hourly. See the commit history for when each change arrived.
 Raw download link pattern: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/<path>
 
 ## Logos

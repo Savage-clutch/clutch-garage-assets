@@ -27,9 +27,10 @@ def fetch(url: str, timeout: int = 300):
                                   timeout=timeout)
 
 
-def write_index(files: list[dict], generated: str) -> None:
+def write_index(files: list[dict]) -> None:
     lines = ["# Clutch Garage assets: index", "",
-             f"Every file below is a mirror of garage.clutch.ca, last synced from the Garage manifest at {generated}.",
+             "Every file below is a mirror of garage.clutch.ca, checked hourly. See the commit history for when "
+             "each change arrived.",
              f"Raw download link pattern: {RAW}/<path>", ""]
     for folder, title in FOLDERS.items():
         group = [f for f in files if f["path"].startswith(folder + "/")]
@@ -82,7 +83,7 @@ def main() -> int:
             d.rmdir()
 
     STATE.write_text(json.dumps(state, indent=1, sort_keys=True) + "\n")
-    write_index([f for f in files if f["path"] in state], manifest["generated"])
+    write_index([f for f in files if f["path"] in state])
     print(f"{len(state)} files mirrored: {added} added or updated, {removed} removed, {len(failed)} failed")
     for line in failed:
         print("  failed:", line)
