@@ -7,12 +7,14 @@ Standard library only.
 """
 
 import json
+import re
 import pathlib
 import sys
 import urllib.parse
 import urllib.request
 
 SOURCE = "https://garage-external.vercel.app/manifest.json"
+BRAND = "https://garage-external.vercel.app/brand.md"
 RAW = "https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main"
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 STATE = ROOT / ".garage-state.json"
@@ -43,6 +45,18 @@ def write_index(files: list[dict]) -> None:
             lines.append(f"- {label}{extra}: {RAW}/{urllib.parse.quote(f['path'])}")
         lines.append("")
     (ROOT / "INDEX.md").write_text("\n".join(lines))
+
+
+def write_brand() -> None:
+    """BRAND.md: the full brand guide, for any AI that can open GitHub links but not garage-external."""
+    with fetch(BRAND, 180) as r:
+        text = r.read().decode("utf-8")
+    if "# Part 1: Writing Clutch copy" not in text:  # never replace a good copy with an error page
+        raise ValueError("brand.md looked incomplete")
+    text = re.sub(r" Generated \d{4}-\d\d-\d\d \d\d:\d\d UTC\.", "", text)
+    head = ("<!-- Mirror of https://garage-external.vercel.app/brand.md (live from garage.clutch.ca), refreshed "
+            "hourly. Prefer the live link when you can open it. -->\n\n")
+    (ROOT / "BRAND.md").write_text(head + text)
 
 
 def main() -> int:
@@ -84,6 +98,10 @@ def main() -> int:
 
     STATE.write_text(json.dumps(state, indent=1, sort_keys=True) + "\n")
     write_index([f for f in files if f["path"] in state])
+    try:
+        write_brand()
+    except Exception as e:
+        failed.append(f"BRAND.md: {e}")
     print(f"{len(state)} files mirrored: {added} added or updated, {removed} removed, {len(failed)} failed")
     for line in failed:
         print("  failed:", line)
