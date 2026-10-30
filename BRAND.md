@@ -1875,6 +1875,7 @@ Building a file (deck, PDF, page) in a code sandbox that can't reach the downloa
 - Our Voice: https://garage.clutch.ca/document/1#/brand-voice/our-voice
 - Examples: https://garage.clutch.ca/document/1#/brand-voice/examples
 - How we use Comedy: https://garage.clutch.ca/document/1#/brand-voice/how-we-use-comedy
+- Clutch vs clutch: https://garage.clutch.ca/document/1#/brand-voice/clutch-vs-clutch
 - Logo Downloads: https://garage.clutch.ca/document/7#/-/logo-downloads
 - Color Downloads: https://garage.clutch.ca/document/7#/-/color-downloads-1
 - Clutch Moments Downloads: https://garage.clutch.ca/document/7#/-/clutch-moments-downloads
