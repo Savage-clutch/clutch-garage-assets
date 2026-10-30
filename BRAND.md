@@ -1872,6 +1872,9 @@ Building a file (deck, PDF, page) in a code sandbox that can't reach the downloa
 - Clutch Moments: https://garage.clutch.ca/document/1#/iconography/clutch-moments
 - 2D Iconography: https://garage.clutch.ca/document/1#/iconography/2d-iconography
 - Downloads: 2D Icons: https://garage.clutch.ca/document/1#/iconography/downloads-2d-icons
+- Our Voice: https://garage.clutch.ca/document/1#/brand-voice/our-voice
+- Examples: https://garage.clutch.ca/document/1#/brand-voice/examples
+- How we use Comedy: https://garage.clutch.ca/document/1#/brand-voice/how-we-use-comedy
 - Logo Downloads: https://garage.clutch.ca/document/7#/-/logo-downloads
 - Color Downloads: https://garage.clutch.ca/document/7#/-/color-downloads-1
 - Clutch Moments Downloads: https://garage.clutch.ca/document/7#/-/clutch-moments-downloads
