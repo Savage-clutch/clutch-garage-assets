@@ -896,15 +896,6 @@ Our palette is minimal and hard-working, with each colour drawn from the Garage 
 Confident, premium Plum and high-energy Clutch Red do the heavy lifting, while soft Lavender bridges the two. 
 Plenty of white space means the colour never has to shout.
 
-**Colors:**
-- Clutch Red: #FF464C | RGB 255/70/76 | CMYK 0/73/70/0
-- Plum: #460B28 | RGB 70/11/40 | CMYK 0/84/43/73
-- Lavender: #F1EDF8 | RGB 241/237/248 | CMYK 3/4/0/3
-
-**Colors:**
-- Dark Cherry: #800040 | RGB 128/0/64 | CMYK 36/100/53/31
-- Soft Black: #191919 | RGB 25/25/25 | CMYK 73/67/65/79
-
 _This page has 1 images and files. Download with download_page_files("The quickest way to say Clutch")._
 # Primary Colors
 _Live from the Garage https://garage.clutch.ca/document/1#/colors/primary-colors. Last modified: 2026-10-22T17:19:00_
@@ -953,11 +944,6 @@ CMYK: 0 / 73 / 70 / 0 
 HEX: #FF464C
 Pantone: 032 C
 
-**Colors:**
-- Clutch Red: #FF464C | RGB 255/70/76 | CMYK 0/73/70/0
-- Red 40: #F56B6C | RGB 245/107/108 | CMYK 0/56/56/4
-- Red 20: #F78D8D | RGB 247/141/141 | CMYK 0/43/43/3
-
 #### Fleet colour
 
 Every Clutch vehicle must be fully wrapped in one red: 
@@ -982,11 +968,6 @@ CMYK: 0 / 84 / 43 / 73 
 HEX: #460B28
 Pantone: 4102 C
 
-**Colors:**
-- Plum : #460B28 | RGB 70/11/40 | CMYK 0/84/43/73
-- Plum 80: #550E30 | RGB 85/14/48 | CMYK 0/84/44/67
-- Plum 40: #75143F | RGB 117/20/63 | CMYK 0/83/46/54
-
 ### Lavender
 
 Lavender brings the calm. It's soft and gentle, a warm, human counterpoint to the boldness of red and plum. It bridges bold
@@ -1001,11 +982,6 @@ RGB: 241 / 237 / 248
 CMYK: 3 / 4 / 0 / 3 
 HEX: #F1EDF8 
 Pantone: 7443C
-
-**Colors:**
-- Lavender: #F1EDF8 | RGB 241/237/248 | CMYK 3/4/0/3
-- Lavender 80: #EBE1F8 | RGB 235/225/248 | CMYK 5/9/0/3
-- Lavender 100: #E6D6F9 | RGB 230/214/249 | CMYK 8/14/0/2
 
 #### To set the tone
 Pick the colour field by the feeling. Lavender for calm, red for energy. 
@@ -1715,7 +1691,7 @@ Original files, each with a permanent direct link on garage.clutch.ca. Any perso
 - Uber Gift Cards.png: https://garage-external.vercel.app/dl/134/Uber%20Gift%20Cards.png
 - Traffic Light with Arrows.png: https://garage-external.vercel.app/dl/134/Traffic%20Light%20with%20Arrows.png
 - Volvo XC40 Side View.png: https://garage-external.vercel.app/dl/134/Volvo%20XC40%20Side%20View.png
-- 123.png: https://garage-external.vercel.app/dl/134/123.png
+- Financing-finak.png: https://garage-external.vercel.app/dl/134/Financing-finak.png
 - Compressed - calc.gif: https://garage-external.vercel.app/dl/134/Compressed%20-%20calc.gif
 - Clutch_Moments-STC_Message-01.gif: https://garage-external.vercel.app/dl/134/Clutch_Moments-STC_Message-01.gif
 - ScaleAnimation-3.gif: https://garage-external.vercel.app/dl/134/ScaleAnimation-3.gif
@@ -1872,10 +1848,6 @@ Building a file (deck, PDF, page) in a code sandbox that can't reach the downloa
 - Clutch Moments: https://garage.clutch.ca/document/1#/iconography/clutch-moments
 - 2D Iconography: https://garage.clutch.ca/document/1#/iconography/2d-iconography
 - Downloads: 2D Icons: https://garage.clutch.ca/document/1#/iconography/downloads-2d-icons
-- Our Voice: https://garage.clutch.ca/document/1#/brand-voice/our-voice
-- Examples: https://garage.clutch.ca/document/1#/brand-voice/examples
-- How we use Comedy: https://garage.clutch.ca/document/1#/brand-voice/how-we-use-comedy
-- Clutch vs clutch: https://garage.clutch.ca/document/1#/brand-voice/clutch-vs-clutch
 - Logo Downloads: https://garage.clutch.ca/document/7#/-/logo-downloads
 - Color Downloads: https://garage.clutch.ca/document/7#/-/color-downloads-1
 - Clutch Moments Downloads: https://garage.clutch.ca/document/7#/-/clutch-moments-downloads

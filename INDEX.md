@@ -127,7 +127,6 @@ Raw download link pattern: https://raw.githubusercontent.com/Savage-clutch/clutc
 
 ## Clutch Moments
 
-- 123.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/123.png
 - Alloy Wheel with Brake Caliper.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Alloy%20Wheel%20with%20Brake%20Caliper.png
 - Amazon Gift Cards.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Amazon%20Gift%20Cards.png
 - Car Being Towed by Crane.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Car%20Being%20Towed%20by%20Crane.png
@@ -147,6 +146,7 @@ Raw download link pattern: https://raw.githubusercontent.com/Savage-clutch/clutc
 - Digital Timer.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Digital%20Timer.png
 - Dollar Sign Traffic Light.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Dollar%20Sign%20Traffic%20Light.png
 - Expired Parking Meter.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Expired%20Parking%20Meter.png
+- Financing-finak.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Financing-finak.png
 - Flatbed animation.gif: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Flatbed%20animation.gif
 - Glove Box with Flashlight.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Glove%20Box%20with%20Flashlight.png
 - Gold Medal with Clutch Logo.png: https://raw.githubusercontent.com/Savage-clutch/clutch-garage-assets/main/clutch-moments/Gold%20Medal%20with%20Clutch%20Logo.png
